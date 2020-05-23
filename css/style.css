@@ -1,0 +1,215 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+     /* GENERAL */
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2rem;
+  margin: 0px;
+}
+
+h2{
+  color: #36506c;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 2.2rem;
+  margin-bottom: 18px;
+}
+
+h3{
+  color: #36506c;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 1.4rem;
+  margin-bottom: 13px
+
+  }
+
+hr{
+  border: dotted 15px #ebf7fd;
+  border-bottom: none;
+  width: 30%;
+  margin: 70px auto 60px;
+}
+
+a{
+  text-decoration: none;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+
+a:hover{
+  color: #a5def1;
+}
+     /* TOP-CONTAINER */
+.top-container{
+  background-color: #ebf7fd;
+}
+
+.t_container_h1{
+  margin: 0;
+  padding: 10px 0 35px 0;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 4.45rem;
+  color: #36506c;
+}
+
+.top_container_quote{
+  font-family: cursive;
+  font-size: 1.3rem;
+  width: 50%;
+  margin: auto;
+}
+
+.name{
+  font-family: 'Charm', cursive;
+  font-size: 1.25rem;
+  margin-bottom: 0px;
+}
+
+.bird{
+  position: relative;
+  left: 20rem;
+  top: 2rem;
+  width: 80px;
+}
+
+.bird-bottom{
+  position: absolute;
+  right: 66rem;
+  width: 80px;
+}
+
+/* SECOND container */
+
+.peace{
+  background-color: #ebf7fd;
+  margin: 50px auto 20px auto;
+  width: 100px;
+  border-radius: 100%;
+  padding: 30px;
+}
+
+.second-container-para{
+  width: 50%;
+  margin: auto;
+}
+
+/* THIRD container */
+
+.third_container_h2{
+  text-align: left;
+  margin-left: 8%;
+  margin-bottom: 15px;
+}
+ .path-row{
+   width: 50%;
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+ }
+
+.debate{
+  float: left;
+  width: 25%;
+  padding-right: 12px;
+}
+
+.join-us-h2{
+  text-align: left;
+  margin-left: 8%;
+  margin-bottom: 15px;
+}
+
+.testbutton {
+  font-family: arial;
+  color: #EBF7FD !important;
+  font-size: 26px;
+  box-shadow: 0px 0px 3px #BEE2F9;
+  padding: 13px 22px;
+  -moz-border-radius: 16px;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+  background: #63B8EE;
+  background: linear-gradient(top,  #A5DEF1,  #468CCF);
+  background: -ms-linear-gradient(top,  #A5DEF1,  #468CCF);
+  background: webkit-gradient(linear, left top, left bottom, from(#A5DEF1), to(#468CCF));
+  background: -moz-linear-gradient(top,  #A5DEF1,  #468CCF);
+}
+.testbutton:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #468CCF,  #63B8EE);
+  background: -ms-linear-gradient(top,  #468CCF,  #63B8EE);
+  background: webkit-gradient(linear, left top, left bottom, from(#468CCF), to(#63B8EE));
+  background: -moz-linear-gradient(top,  #468CCF,  #63B8EE);
+}
+
+.footer{
+ background-color: #36506c;
+ padding: 40px;
+ margin: 50px auto 0px;
+}
+
+.copyright{
+  color: #ffffff;
+  margin-top: 15px;
+  font-size: 0.8rem;
+}
+
+/* ----------------------------------CONTACT HTML------------------------------ */
+
+.top-container-th{
+ background-color: #36506c;
+}
+
+.th_container_h1{
+  margin: 0px auto;
+  padding: 61px 0 35px 0;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 2.8rem;
+  color: white;
+}
+.contact{
+  text-align: left;
+  padding-left: 50px;
+
+}
+
+.button{
+  font-family: arial;
+    color: #EBF7FD !important;
+    font-size: 19px;
+    box-shadow: 0px 0px 7px #BEE2F9;
+    padding: 10px 23px;
+    -moz-border-radius: 19px;
+    -webkit-border-radius: 19px;
+    border-radius: 19px;
+    background: #36506C;
+    background: linear-gradient(top,  #A5DEF1,  #40BAD5);
+    background: -ms-linear-gradient(top,  #A5DEF1,  #40BAD5);
+    background: -webkit-gradient(linear, left top, left bottom, from(#A5DEF1), to(#40BAD5));
+    background: -moz-linear-gradient(top,  #A5DEF1,  #40BAD5);
+    margin: 0px auto 100px;;
+    border: 0px;
+    text-decoration: none;
+}
+
+.form {
+	line-height: 1.5;
+	border: none;
+	margin-top: 100px;
+	width: 700px;
+	font-size: 2rem;
+	color: white;
+	padding: 5px 10px;
+	background: transparent;
+}
+
+/* ----------------------------------THANK HTML------------------------------ */
+
+.t_container{
+  margin: 0;
+  padding: 100px;
+}
